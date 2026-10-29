@@ -5,5 +5,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandi-ramadani](https://www.linkedin.com/in/sandi-ramadani/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BduC%2B4VUERYe7pyfwdZkP9w%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandi ramadani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandi-ramadani](https://www.linkedin.com/in/sandi-ramadani/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BduC%2B4VUERYe7pyfwdZkP9w%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandi ramadani" height="30" width="40" /></a>
 </p>
