@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sandi Ramadani</h1>
 <h3 align="center">A passionate Web developer from Indonesia, Informatics Undergraduate Student at Universitas Islam Indonesia</h3>
 
-<h2 align="center">Socials</h2>
+** Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rmdhn.sandi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sandi-ramadani) 
 
 <h2 align="center">Tech Stack</h2>
